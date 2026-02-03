@@ -1,5 +1,0 @@
-uint8 relay_channel
-bool relay_state
----
-bool relay_response_bool
-string relay_response_string
